@@ -47,10 +47,10 @@ M =>  Maintenance  for  the   project
 Modify=>  Modify   the  implementation  in maintenance  phase
 
 
-Technology =>  Programming Languages  users  are  fast,medium,advanced, mostadvanced etc.
+Technology =>  Programming Languages  used in the  project are  fast,medium,advanced, mostadvanced etc.
 
 
-LOOP=>  Set of  phases like  SET,GLANCE,etc are  repeated  during  the  maintenance  phase  for  the
+LOOP=>  Set of  Phases like  SET,GLANCE,etc are  repeated  during  the  maintenance  phase  for  the
 
 project
 
