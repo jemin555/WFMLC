@@ -59,7 +59,7 @@ project
 Note:
 =====
 
-Monitor  and  Product Owner  are the  Main  Players  for he  project...
+Monitor  and  Product Owner  are the  Main  Players  for the  project...
 
 
 
