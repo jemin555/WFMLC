@@ -23,7 +23,18 @@ WFMLC elements  are  given  below....
 for  1  SET
 
 
-1 SET =>  2  modules  finished with  in  week
+1 SET =>  2 or  3  or   8   modules  finished with  in  week
+
+depends  upon  the   project   type  (ie)  Easy , medium , Risk ,  High  Risk
+
+Note:
+======
+If  the  project   is    Easy means  you  can   able  to  finish   8   modules  in  a  week using  Team Members.
+If  the  project   is    Medium means  you  can  finish   6  or  5  or  4  modules  in  a  week using  Team Members.
+If  the  project   is    Risk  means  you  can  finish   2  or  3    modules  in  a  week using  Team Members.
+If  the  project   is    High  Risk means  you  can  finish   1  or   2 modules  in  a  week using  Team Members.
+
+
 
 1 GLANCE => Using  Attractive and  Javascript Framework  tools
 
